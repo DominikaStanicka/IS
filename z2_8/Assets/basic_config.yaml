@@ -1,0 +1,6 @@
+paths:
+  src_folder: "c:/Users/domin/Desktop/semVI/IS/z2_8/Assets/"
+  json_source_file: "c:/Users/domin/Desktop/semVI/IS/z2_8/Assets/data.json"
+  json_destination_file: "c:/Users/domin/Desktop/semVI/IS/z2_8/Assets/output.json"
+  xml_source_file: "c:/Users/domin/Desktop/semVI/IS/z2_8/Assets/data.xml"
+  xml_destination_file: "c:/Users/domin/Desktop/semVI/IS/z2_8/Assets/output.xml"

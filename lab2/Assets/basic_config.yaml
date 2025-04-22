@@ -1,0 +1,15 @@
+paths:
+  source_folder: 'c:/Users/domin/Desktop/semVI/IS/lab2/Assets/'
+  json_source_file: 'data.json'
+  json_destination_file: 'data_mod2.json'
+  yaml_destination_file: 'data_mod2.yaml'
+options:
+  source_type: 'file'
+  operations:
+    - deseralizate
+    - serialize
+    - convert_to_yaml
+  execution_order:
+    - deseralizate
+    - serialize
+    - convert_to_yaml
